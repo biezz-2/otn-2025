@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "title": "Technology of New Era",
+    "description": "Explore the latest technological advancements and innovations shaping our future."
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "openMenu": "Open main menu"
+  },
+  "footer": {
+    "brandDescription": "Exploring the future of technology and innovation.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "copyright": "© {year} TechEra. All rights reserved."
+  },
+  "homePage": {
+    "hero": {
+      "title": "Welcome to the Future of Technology",
+      "subtitle": "Discover the latest innovations shaping our world",
+      "exploreButton": "Explore Now"
+    },
+    "featured": {
+      "title": "Featured Technologies",
+      "ai": {
+        "title": "Artificial Intelligence",
+        "description": "Exploring the frontiers of machine learning and AI applications"
+      },
+      "blockchain": {
+        "title": "Blockchain",
+        "description": "Revolutionary distributed ledger technology"
+      },
+      "iot": {
+        "title": "IoT Solutions",
+        "description": "Connected devices for a smarter future"
+      }
+    },
+    "latestNews": {
+      "title": "Latest Tech News",
+      "quantum": {
+        "title": "The Rise of Quantum Computing",
+        "excerpt": "Exploring the potential of quantum computers in solving complex problems.",
+        "introduction": "Quantum computing technology harnesses quantum mechanical phenomena to perform complex calculations. This technology offers immense potential for solving problems that are intractable for classical computers.",
+        "timeline": {
+          "title": "Development Timeline",
+          "events": {
+            "2020": {
+              "title": "IBM Quantum Volume 64",
+              "description": "Major milestone in quantum computer development"
+            },
+            "2021": {
+              "title": "Quantum Error Correction Breakthrough",
+              "description": "First validation of QEC on logical qubits"
+            },
+            "2023": {
+              "title": "MIT Gate Fidelity Record",
+              "description": "Achievement of 99.998% single-gate fidelity"
+            }
+          }
+        },
+        "market": {
+          "title": "Market Analysis",
+          "description": "The global quantum computing market shows aggressive growth prospects. MarketsandMarkets projects the market will reach USD 20.20 Billion by 2030."
+        },
+        "literacy": {
+          "title": "Understanding Quantum Computing",
+          "sections": [
+            {
+              "title": "What is a Qubit?",
+              "content": "A qubit is the basic unit of quantum information, analogous to a bit in classical computers. However, unlike classical bits that can only be 0 or 1, qubits can exist in a superposition of both states simultaneously."
+            },
+            {
+              "title": "Quantum Superposition",
+              "content": "Superposition is a quantum phenomenon where a system can exist in multiple states at once. This enables quantum computers to process vast numbers of possibilities in parallel."
+            },
+            {
+              "title": "Quantum Entanglement",
+              "content": "Entanglement is a quantum phenomenon where two or more qubits become connected in such a way that the quantum state of each cannot be described independently, regardless of physical distance."
+            }
+          ],
+          "applications": {
+            "title": "Practical Applications",
+            "list": [
+              "Supply chain and logistics optimization",
+              "Drug discovery and molecular simulation",
+              "Cryptography and data security",
+              "Climate change simulation",
+              "Artificial intelligence and machine learning"
+            ]
+          }
+        }
+      },
+      "greenTech": {
+        "title": "Green Technology Innovations",
+        "excerpt": "Exploring sustainable solutions for a cleaner future through technological innovation.",
+        "timeline": {
+          "title": "Green Technology Timeline",
+          "events": {
+            "2020": {
+              "title": "Global Sustainability Commitment",
+              "description": "Major nations pledge to achieve carbon neutrality by 2050"
+            },
+            "2022": {
+              "title": "Renewable Energy Breakthrough",
+              "description": "Solar efficiency reaches new heights with perovskite cells"
+            },
+            "2023": {
+              "title": "Electric Vehicle Revolution",
+              "description": "Global EV sales surpass traditional vehicles in major markets"
+            },
+            "2024": {
+              "title": "Green Hydrogen Advancement",
+              "description": "Breakthrough in efficient hydrogen production technology"
+            },
+            "2025": {
+              "title": "Carbon Capture Innovation",
+              "description": "New direct air capture technology becomes commercially viable"
+            }
+          }
+        },
+        "overview": {
+          "title": "Environmental Impact Overview",
+          "description": "Tracking our progress towards a sustainable future through green technology adoption.",
+          "emissions": [
+            {"year": "2020", "value": 100, "target": 100},
+            {"year": "2021", "value": 95, "target": 90},
+            {"year": "2022", "value": 85, "target": 80},
+            {"year": "2023", "value": 75, "target": 70},
+            {"year": "2024", "value": 65, "target": 60},
+            {"year": "2025", "value": 55, "target": 50}
+          ]
+        },
+        "technologies": {
+          "title": "Key Green Technologies",
+          "items": [
+            {
+              "name": "Solar PV Technology",
+              "description": "Advanced photovoltaic systems for efficient solar energy capture",
+              "impact": "Reduces carbon emissions by 70%",
+              "readiness": "Deployment"
+            },
+            {
+              "name": "Green Hydrogen",
+              "description": "Clean hydrogen production through electrolysis",
+              "impact": "Zero-emission fuel alternative",
+              "readiness": "Development"
+            },
+            {
+              "name": "Carbon Capture",
+              "description": "Direct air capture of CO2 from atmosphere",
+              "impact": "Negative emissions technology",
+              "readiness": "Research"
+            },
+            {
+              "name": "Smart Grid Systems",
+              "description": "Intelligent power distribution networks",
+              "impact": "30% improvement in energy efficiency",
+              "readiness": "Deployment"
+            }
+          ]
+        },
+        "innovations": {
+          "title": "Latest Innovations",
+          "sections": [
+            {
+              "title": "Renewable Energy Storage",
+              "content": "Advanced battery technologies enabling longer-term energy storage solutions."
+            },
+            {
+              "title": "Smart City Integration",
+              "content": "IoT-enabled systems for efficient resource management in urban environments."
+            },
+            {
+              "title": "Sustainable Agriculture",
+              "content": "Precision farming techniques reducing water usage and increasing crop yields."
+            },
+            {
+              "title": "Waste Management",
+              "content": "Innovative recycling technologies and circular economy solutions."
+            }
+          ],
+          "impact": {
+            "title": "Environmental Benefits",
+            "list": [
+              "Reduced carbon emissions",
+              "Improved air quality",
+              "Conservation of natural resources",
+              "Enhanced biodiversity protection",
+              "Sustainable economic growth",
+              "Increased energy independence"
+            ]
+          }
+        }
+      },
+      "readMore": "Read More →"
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Us",
+      "subtitle": "Dedicated to exploring and sharing the latest technological innovations that are shaping our future."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "To provide comprehensive insights into emerging technologies and their impact on society, making complex technological concepts accessible to everyone."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "To be the leading platform for technological education and innovation, inspiring the next generation of tech leaders and innovators."
+    },
+    "journey": {
+      "title": "Our Journey",
+      "launch": {
+        "title": "Platform Launch",
+        "description": "Started our journey to share technological knowledge."
+      },
+      "growth": {
+        "title": "Community Growth",
+        "description": "Expanded our reach to tech enthusiasts worldwide."
+      },
+      "hub": {
+        "title": "Innovation Hub",
+        "description": "Launched collaborative projects with tech leaders."
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "member1": {
+        "name": "Alex Johnson",
+        "role": "Tech Lead",
+        "bio": "Expert in AI and Machine Learning"
+      },
+      "member2": {
+        "name": "Sarah Chen",
+        "role": "Innovation Director",
+        "bio": "Specialist in Blockchain Technology"
+      },
+      "member3": {
+        "name": "Mike Peters",
+        "role": "Research Lead",
+        "bio": "Focused on Future Technologies"
+      }
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible."
+    },
+    "getInTouch": "Get in Touch",
+    "location": {
+      "title": "Location",
+      "address": "123 Tech Street<br />Silicon Valley, CA 94025"
+    },
+    "email": "Email",
+    "phone": "Phone",
+    "businessHours": {
+      "title": "Business Hours",
+      "hours": "Monday - Friday: 9:00 AM - 6:00 PM<br />Saturday: 10:00 AM - 4:00 PM<br />Sunday: Closed"
+    },
+    "followUs": "Follow Us",
+    "sendMessage": {
+      "title": "Send us a Message",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submitButton": "Send Message"
+    }
+  }
+}

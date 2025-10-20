@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "title": "Teknologi Era Baru",
+    "description": "Jelajahi kemajuan dan inovasi teknologi terbaru yang membentuk masa depan kita."
+  },
+  "navbar": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "contact": "Kontak",
+    "openMenu": "Buka menu utama"
+  },
+  "footer": {
+    "brandDescription": "Menjelajahi masa depan teknologi dan inovasi.",
+    "quickLinks": "Tautan Cepat",
+    "home": "Beranda",
+    "about": "Tentang",
+    "contact": "Kontak",
+    "followUs": "Ikuti Kami",
+    "copyright": "© {year} TechEra. Hak cipta dilindungi undang-undang."
+  },
+  "homePage": {
+    "hero": {
+      "title": "Selamat Datang di Masa Depan Teknologi",
+      "subtitle": "Temukan inovasi terbaru yang membentuk dunia kita",
+      "exploreButton": "Jelajahi Sekarang"
+    },
+    "featured": {
+      "title": "Teknologi Unggulan",
+      "ai": {
+        "title": "Kecerdasan Buatan",
+        "description": "Menjelajahi batas-batas pembelajaran mesin dan aplikasi AI"
+      },
+      "blockchain": {
+        "title": "Blockchain",
+        "description": "Teknologi buku besar terdistribusi yang revolusioner"
+      },
+      "iot": {
+        "title": "Solusi IoT",
+        "description": "Perangkat terhubung untuk masa depan yang lebih cerdas"
+      }
+    },
+    "latestNews": {
+      "title": "Berita Teknologi Terbaru",
+      "quantum": {
+        "title": "Kebangkitan Komputasi Kuantum",
+        "excerpt": "Menjelajahi potensi komputer kuantum dalam memecahkan masalah kompleks.",
+        "introduction": "Teknologi komputasi kuantum memanfaatkan fenomena mekanika kuantum untuk melakukan perhitungan kompleks. Teknologi ini menawarkan potensi besar untuk memecahkan masalah yang sulit bagi komputer klasik.",
+        "timeline": {
+          "title": "Timeline Pengembangan",
+          "events": {
+            "2020": {
+              "title": "IBM Quantum Volume 64",
+              "description": "Tonggak penting dalam pengembangan komputer kuantum"
+            },
+            "2021": {
+              "title": "Terobosan Koreksi Kesalahan Kuantum",
+              "description": "Validasi pertama QEC pada qubit logis"
+            },
+            "2023": {
+              "title": "Rekor Fidelitas Gerbang MIT",
+              "description": "Pencapaian fidelitas gerbang tunggal 99,998%"
+            }
+          }
+        },
+        "market": {
+          "title": "Analisis Pasar",
+          "description": "Pasar komputasi kuantum global menunjukkan prospek pertumbuhan yang agresif. MarketsandMarkets memproyeksikan pasar akan mencapai USD 20,20 Miliar pada tahun 2030."
+        },
+        "literacy": {
+          "title": "Memahami Komputasi Kuantum",
+          "sections": [
+            {
+              "title": "Apa itu Qubit?",
+              "content": "Qubit adalah unit dasar informasi kuantum, analog dengan bit dalam komputer klasik. Namun, tidak seperti bit klasik yang hanya bisa 0 atau 1, qubit dapat berada dalam superposisi kedua keadaan secara bersamaan."
+            },
+            {
+              "title": "Superposisi Kuantum",
+              "content": "Superposisi adalah fenomena kuantum di mana sistem dapat berada dalam beberapa keadaan sekaligus. Ini memungkinkan komputer kuantum memproses sejumlah besar kemungkinan secara paralel."
+            },
+            {
+              "title": "Keterkaitan Kuantum",
+              "content": "Keterkaitan adalah fenomena kuantum di mana dua atau lebih qubit menjadi terhubung sedemikian rupa sehingga keadaan kuantum masing-masing tidak dapat dijelaskan secara independen, terlepas dari jarak fisik."
+            }
+          ],
+          "applications": {
+            "title": "Aplikasi Praktis",
+            "list": [
+              "Optimasi rantai pasokan dan logistik",
+              "Penemuan obat dan simulasi molekuler",
+              "Kriptografi dan keamanan data",
+              "Simulasi perubahan iklim",
+              "Kecerdasan buatan dan pembelajaran mesin"
+            ]
+          }
+        }
+      },
+      "greenTech": {
+        "title": "Inovasi Teknologi Hijau",
+        "excerpt": "Menjelajahi solusi berkelanjutan untuk masa depan yang lebih bersih melalui inovasi teknologi.",
+        "timeline": {
+          "title": "Linimasa Teknologi Hijau",
+          "events": {
+            "2020": {
+              "title": "Komitmen Keberlanjutan Global",
+              "description": "Negara-negara besar berjanji mencapai netralitas karbon pada 2050"
+            },
+            "2022": {
+              "title": "Terobosan Energi Terbarukan",
+              "description": "Efisiensi panel surya meningkat berkat sel perovskit"
+            },
+            "2023": {
+              "title": "Revolusi Kendaraan Listrik",
+              "description": "Penjualan kendaraan listrik global melampaui kendaraan tradisional di beberapa pasar"
+            },
+            "2024": {
+              "title": "Kemajuan Hidrogen Hijau",
+              "description": "Terobosan dalam teknologi produksi hidrogen yang lebih efisien"
+            },
+            "2025": {
+              "title": "Inovasi Penangkap Karbon",
+              "description": "Teknologi penangkapan udara langsung menjadi layak secara komersial"
+            }
+          }
+        },
+        "overview": {
+          "title": "Ikhtisar Dampak Lingkungan",
+          "description": "Memantau kemajuan menuju masa depan yang berkelanjutan melalui adopsi teknologi hijau.",
+          "emissions": [
+            {"year": "2020", "value": 100, "target": 100},
+            {"year": "2021", "value": 95, "target": 90},
+            {"year": "2022", "value": 85, "target": 80},
+            {"year": "2023", "value": 75, "target": 70},
+            {"year": "2024", "value": 65, "target": 60},
+            {"year": "2025", "value": 55, "target": 50}
+          ]
+        },
+        "technologies": {
+          "title": "Teknologi Hijau Utama",
+          "items": [
+            {
+              "name": "Teknologi PV Surya",
+              "description": "Sistem fotovoltaik canggih untuk menangkap energi surya secara efisien",
+              "impact": "Mengurangi emisi karbon hingga 70%",
+              "readiness": "Penerapan"
+            },
+            {
+              "name": "Hidrogen Hijau",
+              "description": "Produksi hidrogen bersih melalui elektrolisis",
+              "impact": "Alternatif bahan bakar tanpa emisi",
+              "readiness": "Pengembangan"
+            },
+            {
+              "name": "Penangkap Karbon",
+              "description": "Penangkapan CO2 langsung dari atmosfer",
+              "impact": "Teknologi emisi negatif",
+              "readiness": "Riset"
+            },
+            {
+              "name": "Sistem Jaringan Cerdas",
+              "description": "Jaringan distribusi daya yang cerdas",
+              "impact": "Peningkatan efisiensi energi 30%",
+              "readiness": "Penerapan"
+            }
+          ]
+        },
+        "innovations": {
+          "title": "Inovasi Terkini",
+          "sections": [
+            {
+              "title": "Penyimpanan Energi Terbarukan",
+              "content": "Teknologi baterai canggih yang memungkinkan penyimpanan energi jangka panjang."
+            },
+            {
+              "title": "Integrasi Kota Pintar",
+              "content": "Sistem berbasis IoT untuk pengelolaan sumber daya yang efisien di lingkungan perkotaan."
+            },
+            {
+              "title": "Pertanian Berkelanjutan",
+              "content": "Teknik pertanian presisi yang mengurangi penggunaan air dan meningkatkan hasil panen."
+            },
+            {
+              "title": "Manajemen Limbah",
+              "content": "Teknologi daur ulang inovatif dan solusi ekonomi sirkular."
+            }
+          ],
+          "impact": {
+            "title": "Manfaat Lingkungan",
+            "list": [
+              "Pengurangan emisi karbon",
+              "Peningkatan kualitas udara",
+              "Konservasi sumber daya alam",
+              "Perlindungan keanekaragaman hayati",
+              "Pertumbuhan ekonomi yang berkelanjutan",
+              "Peningkatan ketahanan energi"
+            ]
+          }
+        }
+      }
+    },
+    "readMore": "Baca Selengkapnya →"
+  }
+  ,
+  "aboutPage": {
+    "hero": {
+      "title": "Tentang Kami",
+      "subtitle": "Berdedikasi untuk menjelajahi dan membagikan inovasi teknologi terbaru yang membentuk masa depan kita."
+    },
+    "mission": {
+      "title": "Misi Kami",
+      "text": "Memberikan wawasan komprehensif tentang teknologi yang sedang muncul dan dampaknya terhadap masyarakat, menjadikan konsep teknologi yang kompleks mudah diakses oleh semua orang."
+    },
+    "vision": {
+      "title": "Visi Kami",
+      "text": "Menjadi platform terdepan untuk pendidikan dan inovasi teknologi, menginspirasi generasi berikutnya dari pemimpin dan inovator teknologi."
+    },
+    "journey": {
+      "title": "Perjalanan Kami",
+      "launch": {
+        "title": "Peluncuran Platform",
+        "description": "Memulai perjalanan kami untuk membagikan pengetahuan teknologi."
+      },
+      "growth": {
+        "title": "Pertumbuhan Komunitas",
+        "description": "Memperluas jangkauan kami kepada para penggemar teknologi di seluruh dunia."
+      },
+      "hub": {
+        "title": "Pusat Inovasi",
+        "description": "Meluncurkan proyek kolaboratif dengan pemimpin teknologi."
+      }
+    },
+    "team": {
+      "title": "Tim Kami",
+      "member1": {
+        "name": "Alex Johnson",
+        "role": "Tech Lead",
+        "bio": "Ahli dalam AI dan Pembelajaran Mesin"
+      },
+      "member2": {
+        "name": "Sarah Chen",
+        "role": "Direktur Inovasi",
+        "bio": "Spesialis dalam Teknologi Blockchain"
+      },
+      "member3": {
+        "name": "Mike Peters",
+        "role": "Research Lead",
+        "bio": "Fokus pada Teknologi Masa Depan"
+      }
+    }
+  }
+  ,
+  "contactPage": {
+    "hero": {
+      "title": "Hubungi Kami",
+      "subtitle": "Punya pertanyaan? Kami senang mendengar dari Anda. Kirim pesan dan kami akan merespons sesegera mungkin."
+    },
+    "getInTouch": "Hubungi",
+    "location": {
+      "title": "Lokasi",
+      "address": "123 Tech Street<br />Silicon Valley, CA 94025"
+    },
+    "email": "Email",
+    "phone": "Telepon",
+    "businessHours": {
+      "title": "Jam Kerja",
+      "hours": "Senin - Jumat: 9:00 - 18:00<br />Sabtu: 10:00 - 16:00<br />Minggu: Libur"
+    },
+    "followUs": "Ikuti Kami",
+    "sendMessage": {
+      "title": "Kirim Pesan",
+      "name": "Nama",
+      "email": "Email",
+      "subject": "Subjek",
+      "message": "Pesan",
+      "submitButton": "Kirim Pesan"
+    }
+  }
+}
