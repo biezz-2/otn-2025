@@ -28,7 +28,7 @@ Make sure you have Node.js and npm (or yarn/pnpm) installed on your machine.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/otn-2025.git
+   git clone https://github.com/biezz-2/otn-2025.git
    cd otn-2025
    ```
 
